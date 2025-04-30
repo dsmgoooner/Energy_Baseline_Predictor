@@ -1,4 +1,4 @@
-# Project Summary for CV
+# Project Summary
 
 <ol>
  <li>Energy Baseline Prediction and Savings Assessment for an Office Building: Developed a predictive model to establish a baseline for energy consumption using historical data, enabling the evaluation of the impact of Energy Conservation Measures (ECM). The Random Forest model accurately predicted energy usage with an R² score of 0.88, highlighting changes in consumption patterns.</li>
